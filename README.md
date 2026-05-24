@@ -1,0 +1,2 @@
+# StockApp
+base mercantil
